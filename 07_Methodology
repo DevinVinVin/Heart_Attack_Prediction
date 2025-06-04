@@ -1,13 +1,17 @@
-Load and clean the dataset (handle missing values, standardize columns).
+Load the dataset and perform initial cleaning.
 
-Perform exploratory data analysis (visualizations and correlations).
+Replace missing or undefined values with median/mode as appropriate.
 
-Standardize features using z-score normalization.
+Conduct exploratory data analysis (EDA) using visualization tools.
 
-Split the dataset into training and test sets.
+Normalize the data using standardization (z-score method).
 
-Train a Random Forest Classifier.
+Split the data into training and testing sets (80:20 split).
 
-Evaluate the model using accuracy and classification metrics.
+Train a Random Forest Classifier model.
 
-Save the model for inference and make predictions on new data.
+Evaluate the model using standard metrics.
+
+Save the model and scaler for future predictions.
+
+Implement inference on new, unseen data.
