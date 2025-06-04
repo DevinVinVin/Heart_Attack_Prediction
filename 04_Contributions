@@ -1,7 +1,7 @@
-Preprocessed a real-world dataset by cleaning, handling missing values, and standardizing features.
+Processed and cleaned the heart disease dataset by handling missing values and standardizing features.
 
-Trained and evaluated a Random Forest Classifier model.
+Conducted exploratory data analysis to understand patterns and relationships.
 
-Achieved strong performance and documented all steps for reproducibility.
+Built a machine learning model using Random Forest Classifier to predict heart attack risk.
 
-Provided inference code for practical prediction on new patient data.
+Provided an implementation pipeline for making predictions on new patient data.
