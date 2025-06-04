@@ -2,8 +2,10 @@ Random Forest Classifier
 
 Why?:
 
-Robust to noise and overfitting.
+Effective for binary classification problems with both numerical and categorical features.
 
-Handles both numerical and categorical features well.
+Handles missing values and noisy data well.
 
-Provides good baseline performance with minimal tuning.
+Provides feature importance, helping in interpretation.
+
+Generally high accuracy and low overfitting.
