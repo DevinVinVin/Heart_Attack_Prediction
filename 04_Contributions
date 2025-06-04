@@ -1,0 +1,7 @@
+Preprocessed a real-world dataset by cleaning, handling missing values, and standardizing features.
+
+Trained and evaluated a Random Forest Classifier model.
+
+Achieved strong performance and documented all steps for reproducibility.
+
+Provided inference code for practical prediction on new patient data.

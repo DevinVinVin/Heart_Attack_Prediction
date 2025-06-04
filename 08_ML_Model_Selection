@@ -1,0 +1,9 @@
+Random Forest Classifier
+
+Why?:
+
+Robust to noise and overfitting.
+
+Handles both numerical and categorical features well.
+
+Provides good baseline performance with minimal tuning.

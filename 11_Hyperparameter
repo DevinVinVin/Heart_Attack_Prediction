@@ -1,0 +1,1 @@
+Default RandomForestClassifier parameters used. Can be tuned for further improvement using GridSearchCV.

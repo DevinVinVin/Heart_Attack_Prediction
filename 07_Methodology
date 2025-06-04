@@ -1,0 +1,13 @@
+Load and clean the dataset (handle missing values, standardize columns).
+
+Perform exploratory data analysis (visualizations and correlations).
+
+Standardize features using z-score normalization.
+
+Split the dataset into training and test sets.
+
+Train a Random Forest Classifier.
+
+Evaluate the model using accuracy and classification metrics.
+
+Save the model for inference and make predictions on new data.
