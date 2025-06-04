@@ -1,1 +1,1 @@
-The dataset includes patient medical records with attributes such as age, blood pressure, cholesterol, blood sugar, and other clinical indicators. It is used to predict the presence or absence of diabetes.
+This dataset consists of multiple patient health indicators such as age, sex, chest pain type, resting blood pressure, cholesterol levels, fasting blood sugar, ECG results, maximum heart rate achieved, exercise-induced angina, oldpeak, slope, number of major vessels, and thalassemia. The target variable indicates the presence (1) or absence (0) of heart disease.
